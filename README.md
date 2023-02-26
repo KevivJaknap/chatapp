@@ -1,4 +1,4 @@
-**Computer Security Project (CS3006D)**
+**Computer Security Project (CS4096D)**
 
 Members
 
